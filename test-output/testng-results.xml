@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2020-07-04T11:48:31Z" finished-at="2020-07-04T11:48:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2020-07-04T11:48:31Z" finished-at="2020-07-04T11:48:31Z">
+      <class name="org.testng.Employee">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.testng.Employee@51081592]" name="test" duration-ms="20" started-at="2020-07-04T11:48:31Z" data-provider="data" finished-at="2020-07-04T11:48:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45678]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sekar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- org.testng.Employee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
