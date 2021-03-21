@@ -15,6 +15,7 @@ public class E {
 		E e= new E();
 		e.empid();
 		e.empName();
+		System.out.println("Hai");
 	}
 
 }
